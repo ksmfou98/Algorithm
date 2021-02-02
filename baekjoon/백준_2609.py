@@ -23,4 +23,4 @@ else:
     result = gcd(B,A)
     print(result)
 
-print(A*B // gcd(A, B))  ## 최대공배수는 두수를 곱한뒤 최대공약수로 나눠주면됌.
+print(A*B // gcd(A, B))  ## 최소공배수는 두수를 곱한뒤 최대공약수로 나눠주면됌.
