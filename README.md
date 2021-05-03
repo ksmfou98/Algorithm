@@ -1,5 +1,5 @@
 # python_algorithm
-python algorithm 
+
 
 
 **SW Expert Academy** : https://swexpertacademy.com/main/main.do
